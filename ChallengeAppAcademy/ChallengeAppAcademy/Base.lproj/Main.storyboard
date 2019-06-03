@@ -64,33 +64,18 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="tsf-1q-cu7">
-                                <rect key="frame" x="87" y="374" width="240" height="148.5"/>
-                                <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QXN-QP-Ons">
-                                        <rect key="frame" x="0.0" y="0.0" width="240" height="20.5"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="C0U-7W-WxG">
-                                        <rect key="frame" x="0.0" y="20.5" width="240" height="128"/>
-                                    </imageView>
-                                </subviews>
-                                <constraints>
-                                    <constraint firstItem="QXN-QP-Ons" firstAttribute="centerX" secondItem="tsf-1q-cu7" secondAttribute="centerX" id="F8w-ng-EhQ"/>
-                                </constraints>
-                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QXN-QP-Ons">
+                                <rect key="frame" x="87" y="317" width="240" height="20.5"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                        <constraints>
-                            <constraint firstItem="tsf-1q-cu7" firstAttribute="centerX" secondItem="XFw-lq-u9a" secondAttribute="centerX" id="2fC-d9-CW4"/>
-                            <constraint firstItem="tsf-1q-cu7" firstAttribute="centerY" secondItem="XFw-lq-u9a" secondAttribute="centerY" id="GE8-EC-uWG"/>
-                        </constraints>
                         <viewLayoutGuide key="safeArea" id="e1u-e2-OrZ"/>
                     </view>
                     <connections>
-                        <outlet property="detailImage" destination="C0U-7W-WxG" id="u9t-7H-dU6"/>
                         <outlet property="detailLbl" destination="QXN-QP-Ons" id="Vbr-4K-zUh"/>
                     </connections>
                 </viewController>

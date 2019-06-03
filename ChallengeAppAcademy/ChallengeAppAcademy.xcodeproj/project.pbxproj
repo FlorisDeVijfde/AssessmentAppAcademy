@@ -10,22 +10,28 @@
 		706018A122A2AF7E00F7C146 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 706018A022A2AF7E00F7C146 /* AppDelegate.swift */; };
 		706018A322A2AF7E00F7C146 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 706018A222A2AF7E00F7C146 /* TableViewController.swift */; };
 		706018A622A2AF7E00F7C146 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 706018A422A2AF7E00F7C146 /* Main.storyboard */; };
-		706018A922A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 706018A722A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodeld */; };
 		706018AB22A2AF8100F7C146 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 706018AA22A2AF8100F7C146 /* Assets.xcassets */; };
 		706018AE22A2AF8100F7C146 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 706018AC22A2AF8100F7C146 /* LaunchScreen.storyboard */; };
 		70BEFE3122A50FDB00C6A9D4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */; };
+		70BEFE3322A524F300C6A9D4 /* Gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BEFE3222A524F300C6A9D4 /* Gif.swift */; };
+		70BEFE3522A5278200C6A9D4 /* Cat1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 70BEFE3422A5278200C6A9D4 /* Cat1.gif */; };
+		70BEFE3722A5278900C6A9D4 /* Cat2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 70BEFE3622A5278900C6A9D4 /* Cat2.gif */; };
+		70BEFE3922A5314D00C6A9D4 /* Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BEFE3822A5314D00C6A9D4 /* Layout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7060189D22A2AF7E00F7C146 /* ChallengeAppAcademy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChallengeAppAcademy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		706018A022A2AF7E00F7C146 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		706018A222A2AF7E00F7C146 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		706018A222A2AF7E00F7C146 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TableViewController.swift; path = ChallengeAppAcademy/TableViewController.swift; sourceTree = "<group>"; };
 		706018A522A2AF7E00F7C146 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		706018A822A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ChallengeAppAcademy.xcdatamodel; sourceTree = "<group>"; };
 		706018AA22A2AF8100F7C146 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		706018AD22A2AF8100F7C146 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		706018AF22A2AF8100F7C146 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DetailViewController.swift; path = ChallengeAppAcademy/DetailViewController.swift; sourceTree = "<group>"; };
+		70BEFE3222A524F300C6A9D4 /* Gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gif.swift; sourceTree = "<group>"; };
+		70BEFE3422A5278200C6A9D4 /* Cat1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Cat1.gif; path = "ChallengeAppAcademy/New Group/Cat1.gif"; sourceTree = "<group>"; };
+		70BEFE3622A5278900C6A9D4 /* Cat2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Cat2.gif; path = "ChallengeAppAcademy/New Group/Cat2.gif"; sourceTree = "<group>"; };
+		70BEFE3822A5314D00C6A9D4 /* Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Layout.swift; path = ChallengeAppAcademy/Layout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +48,8 @@
 		7060189422A2AF7E00F7C146 = {
 			isa = PBXGroup;
 			children = (
+				70BEFE3E22A5367800C6A9D4 /* Visual */,
+				70BEFE3D22A5364F00C6A9D4 /* ViewControllers */,
 				7060189F22A2AF7E00F7C146 /* ChallengeAppAcademy */,
 				7060189E22A2AF7E00F7C146 /* Products */,
 			);
@@ -59,15 +67,48 @@
 			isa = PBXGroup;
 			children = (
 				706018A022A2AF7E00F7C146 /* AppDelegate.swift */,
-				706018A222A2AF7E00F7C146 /* TableViewController.swift */,
-				70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */,
 				706018A422A2AF7E00F7C146 /* Main.storyboard */,
 				706018AA22A2AF8100F7C146 /* Assets.xcassets */,
 				706018AC22A2AF8100F7C146 /* LaunchScreen.storyboard */,
 				706018AF22A2AF8100F7C146 /* Info.plist */,
-				706018A722A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodeld */,
+				70BEFE3A22A5354A00C6A9D4 /* New Group */,
 			);
 			path = ChallengeAppAcademy;
+			sourceTree = "<group>";
+		};
+		70BEFE3A22A5354A00C6A9D4 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		70BEFE3C22A5360300C6A9D4 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				70BEFE3422A5278200C6A9D4 /* Cat1.gif */,
+				70BEFE3622A5278900C6A9D4 /* Cat2.gif */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		70BEFE3D22A5364F00C6A9D4 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				706018A222A2AF7E00F7C146 /* TableViewController.swift */,
+				70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		70BEFE3E22A5367800C6A9D4 /* Visual */ = {
+			isa = PBXGroup;
+			children = (
+				70BEFE3222A524F300C6A9D4 /* Gif.swift */,
+				70BEFE3822A5314D00C6A9D4 /* Layout.swift */,
+				70BEFE3C22A5360300C6A9D4 /* Images */,
+			);
+			name = Visual;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,7 +170,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				706018AE22A2AF8100F7C146 /* LaunchScreen.storyboard in Resources */,
+				70BEFE3522A5278200C6A9D4 /* Cat1.gif in Resources */,
 				706018AB22A2AF8100F7C146 /* Assets.xcassets in Resources */,
+				70BEFE3722A5278900C6A9D4 /* Cat2.gif in Resources */,
 				706018A622A2AF7E00F7C146 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -143,8 +186,9 @@
 			files = (
 				706018A322A2AF7E00F7C146 /* TableViewController.swift in Sources */,
 				706018A122A2AF7E00F7C146 /* AppDelegate.swift in Sources */,
-				706018A922A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodeld in Sources */,
 				70BEFE3122A50FDB00C6A9D4 /* DetailViewController.swift in Sources */,
+				70BEFE3322A524F300C6A9D4 /* Gif.swift in Sources */,
+				70BEFE3922A5314D00C6A9D4 /* Layout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,19 +388,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		706018A722A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				706018A822A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodel */,
-			);
-			currentVersion = 706018A822A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodel */;
-			path = ChallengeAppAcademy.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 7060189522A2AF7E00F7C146 /* Project object */;
 }

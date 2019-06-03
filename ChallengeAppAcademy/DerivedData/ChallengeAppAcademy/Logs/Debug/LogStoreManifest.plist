@@ -6,6 +6,102 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0F83B915-329C-4FDB-9C8B-6517421F046D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0F83B915-329C-4FDB-9C8B-6517421F046D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581250398.84819102</real>
+			<key>timeStoppedRecording</key>
+			<real>581250448.05705595</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>0F83B915-329C-4FDB-9C8B-6517421F046D</string>
+		</dict>
+		<key>13F2031F-D256-489D-B97B-531B9A056760</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>13F2031F-D256-489D-B97B-531B9A056760.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581249622.77523196</real>
+			<key>timeStoppedRecording</key>
+			<real>581249707.03442395</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>13F2031F-D256-489D-B97B-531B9A056760</string>
+		</dict>
+		<key>1CCD2626-3CB9-4E8E-B4DF-BA14EF02AAB4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1CCD2626-3CB9-4E8E-B4DF-BA14EF02AAB4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581248661.90451896</real>
+			<key>timeStoppedRecording</key>
+			<real>581248910.97219503</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>1CCD2626-3CB9-4E8E-B4DF-BA14EF02AAB4</string>
+		</dict>
 		<key>24F526FB-BA6F-4FC5-960B-2063AC7E1957</key>
 		<dict>
 			<key>className</key>
@@ -101,6 +197,134 @@
 			<string>Debug ChallengeAppAcademy</string>
 			<key>uniqueIdentifier</key>
 			<string>2EF74318-6B32-4458-AC70-B090C37D0579</string>
+		</dict>
+		<key>442BAB7E-B49B-470B-8BE1-6792122F2B04</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>442BAB7E-B49B-470B-8BE1-6792122F2B04.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581249751.15069997</real>
+			<key>timeStoppedRecording</key>
+			<real>581250390.81483698</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>442BAB7E-B49B-470B-8BE1-6792122F2B04</string>
+		</dict>
+		<key>4A7E7523-9894-48E7-8F5A-CD41085768BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4A7E7523-9894-48E7-8F5A-CD41085768BE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581250996.21721494</real>
+			<key>timeStoppedRecording</key>
+			<real>581251283.75142705</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>4A7E7523-9894-48E7-8F5A-CD41085768BE</string>
+		</dict>
+		<key>55244188-51FF-476F-B841-CFBB7F354495</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>55244188-51FF-476F-B841-CFBB7F354495.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581250500.731861</real>
+			<key>timeStoppedRecording</key>
+			<real>581250662.69663298</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>55244188-51FF-476F-B841-CFBB7F354495</string>
+		</dict>
+		<key>5B036F9A-3C56-40BB-8C0A-ECBF2FDE5E42</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5B036F9A-3C56-40BB-8C0A-ECBF2FDE5E42.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581252378.28594398</real>
+			<key>timeStoppedRecording</key>
+			<real>581252406.85320902</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>5B036F9A-3C56-40BB-8C0A-ECBF2FDE5E42</string>
 		</dict>
 		<key>60029EEA-1A79-4D6C-87EF-C96D1B3E10EF</key>
 		<dict>
@@ -198,6 +422,70 @@
 			<key>uniqueIdentifier</key>
 			<string>6BD2C22E-B9E6-4866-ABDD-89A3331819D0</string>
 		</dict>
+		<key>8140B1E5-36D9-4A22-950F-D0CCEFFAD109</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8140B1E5-36D9-4A22-950F-D0CCEFFAD109.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581251363.17705905</real>
+			<key>timeStoppedRecording</key>
+			<real>581251383.34333706</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>8140B1E5-36D9-4A22-950F-D0CCEFFAD109</string>
+		</dict>
+		<key>8149BC87-1D3C-4251-A12E-119766567AB0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8149BC87-1D3C-4251-A12E-119766567AB0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581247483.92356205</real>
+			<key>timeStoppedRecording</key>
+			<real>581248647.33250904</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>8149BC87-1D3C-4251-A12E-119766567AB0</string>
+		</dict>
 		<key>81A17E34-3679-4B58-8104-99B998F08C80</key>
 		<dict>
 			<key>className</key>
@@ -229,6 +517,102 @@
 			<string>Debug ChallengeAppAcademy</string>
 			<key>uniqueIdentifier</key>
 			<string>81A17E34-3679-4B58-8104-99B998F08C80</string>
+		</dict>
+		<key>8907AE06-0FF9-45C4-855F-1C1DFC5219B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8907AE06-0FF9-45C4-855F-1C1DFC5219B2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581250453.00792205</real>
+			<key>timeStoppedRecording</key>
+			<real>581250496.62473905</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>8907AE06-0FF9-45C4-855F-1C1DFC5219B2</string>
+		</dict>
+		<key>8D35E63B-B4BF-4B33-A295-C1BD9F3D2388</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8D35E63B-B4BF-4B33-A295-C1BD9F3D2388.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581252218.55035102</real>
+			<key>timeStoppedRecording</key>
+			<real>581252329.79369104</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>8D35E63B-B4BF-4B33-A295-C1BD9F3D2388</string>
+		</dict>
+		<key>9CB365F5-7092-45E9-9E97-8D04A23C1D0D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9CB365F5-7092-45E9-9E97-8D04A23C1D0D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581252636.62829101</real>
+			<key>timeStoppedRecording</key>
+			<real>581252788.26828003</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>9CB365F5-7092-45E9-9E97-8D04A23C1D0D</string>
 		</dict>
 		<key>A0800E62-1640-414F-BD37-94112EBE27B0</key>
 		<dict>
@@ -294,6 +678,102 @@
 			<key>uniqueIdentifier</key>
 			<string>AAFA5314-1154-4C53-8034-C4859E74FDA0</string>
 		</dict>
+		<key>ADDF65BF-2001-421A-9E96-12E0243CF940</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ADDF65BF-2001-421A-9E96-12E0243CF940.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581249054.993397</real>
+			<key>timeStoppedRecording</key>
+			<real>581249198.47129202</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>ADDF65BF-2001-421A-9E96-12E0243CF940</string>
+		</dict>
+		<key>B04A5B92-89FC-4446-A898-BEBB27251647</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B04A5B92-89FC-4446-A898-BEBB27251647.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581248921.00627995</real>
+			<key>timeStoppedRecording</key>
+			<real>581249036.129179</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>B04A5B92-89FC-4446-A898-BEBB27251647</string>
+		</dict>
+		<key>C1C2BA82-7A16-46FD-8DE4-E5CD49C1CFA7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C1C2BA82-7A16-46FD-8DE4-E5CD49C1CFA7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581252792.77737498</real>
+			<key>timeStoppedRecording</key>
+			<real>581252813.77428997</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>C1C2BA82-7A16-46FD-8DE4-E5CD49C1CFA7</string>
+		</dict>
 		<key>DD04B3EF-AA08-4D95-9A70-44FCBD0BF283</key>
 		<dict>
 			<key>className</key>
@@ -325,6 +805,134 @@
 			<string>Debug ChallengeAppAcademy</string>
 			<key>uniqueIdentifier</key>
 			<string>DD04B3EF-AA08-4D95-9A70-44FCBD0BF283</string>
+		</dict>
+		<key>E5113895-0DAC-4C99-A0D8-7DBF52B81CC9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E5113895-0DAC-4C99-A0D8-7DBF52B81CC9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581249328.132761</real>
+			<key>timeStoppedRecording</key>
+			<real>581249616.91659105</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>E5113895-0DAC-4C99-A0D8-7DBF52B81CC9</string>
+		</dict>
+		<key>F601FB4A-CD0F-432F-BA4D-639413F7D524</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F601FB4A-CD0F-432F-BA4D-639413F7D524.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581252343.91186595</real>
+			<key>timeStoppedRecording</key>
+			<real>581252373.92510402</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>F601FB4A-CD0F-432F-BA4D-639413F7D524</string>
+		</dict>
+		<key>F8A8752C-C3E0-4403-BFFF-1DAEC34EFD32</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F8A8752C-C3E0-4403-BFFF-1DAEC34EFD32.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581250667.11149502</real>
+			<key>timeStoppedRecording</key>
+			<real>581250991.57284796</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>F8A8752C-C3E0-4403-BFFF-1DAEC34EFD32</string>
+		</dict>
+		<key>FF59D590-F4CF-4AE5-A680-242D7BE8AF49</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FF59D590-F4CF-4AE5-A680-242D7BE8AF49.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581249202.88089001</real>
+			<key>timeStoppedRecording</key>
+			<real>581249320.52469099</real>
+			<key>title</key>
+			<string>Debug ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>FF59D590-F4CF-4AE5-A680-242D7BE8AF49</string>
 		</dict>
 	</dict>
 </dict>

@@ -201,14 +201,12 @@ SWIFT_CLASS("_TtC19ChallengeAppAcademy11AppDelegate")
 @end
 
 @class UILabel;
-@class UIImageView;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC19ChallengeAppAcademy20DetailViewController")
 @interface DetailViewController : UIViewController
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified detailLbl;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified detailImage;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
@@ -230,6 +228,8 @@ SWIFT_CLASS("_TtC19ChallengeAppAcademy19TableViewController")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end
+
+
 
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

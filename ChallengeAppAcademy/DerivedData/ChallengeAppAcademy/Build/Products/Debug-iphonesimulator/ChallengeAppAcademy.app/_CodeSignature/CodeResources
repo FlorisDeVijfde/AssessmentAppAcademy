@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		J4k9amwHkG7aYiasPbLo0YENVS0=
+		IFyV1e8fftXqSN+mm91c2oSJ40w=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -26,31 +26,27 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/RY7-4G-rMb-view-XFw-lq-u9a.nib</key>
 		<data>
-		fY05IxK7zjtRuxazGoeVrObUQjo=
+		XUkRtvrnvlYl2VEBcOqUQjNmiyQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-e9P-fM-hzh.nib</key>
 		<data>
-		ZpeN/+bjQdX/0FRXSnLTXVh5giY=
+		rQ4GrqRoOSnR1bmmBfLskCZT4Fo=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-RY7-4G-rMb.nib</key>
 		<data>
-		Gsl8CCpM1y9+G5yhGMEKWWfMWYE=
+		NyOZjmERMJg7CQVk1EwISwsVv6k=
 		</data>
 		<key>Base.lproj/Main.storyboardc/hVX-Td-fPf-view-jns-tG-CKf.nib</key>
 		<data>
-		E2hMCN+fUkma6A08/Yt56tWXIU0=
+		uYTWYIfD1SvB2SdDV8zOP0BImPg=
 		</data>
-		<key>ChallengeAppAcademy.momd/ChallengeAppAcademy.mom</key>
+		<key>Cat1.gif</key>
 		<data>
-		+bfxD2Bs3/P5tzub3hjzUUS48Ig=
+		wc/qpH8Am8DWyFENvz/Vi7ig68U=
 		</data>
-		<key>ChallengeAppAcademy.momd/ChallengeAppAcademy.omo</key>
+		<key>Cat2.gif</key>
 		<data>
-		3iQ12Ae0XV625QsxMDAnOWXf/Yo=
-		</data>
-		<key>ChallengeAppAcademy.momd/VersionInfo.plist</key>
-		<data>
-		QjIxpWVwKYahUGKp7sy/Xd7fZG4=
+		btmS2YlRwMR5nkeJANOX8lV2nno=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -71,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ayNQMvrMLEZNgI7Z0IzMsKaz7G9+9OjipJ7QPrmPs14=
+			U7VpNjXLt6h8orSb4jLSXi2xMKlPYQPTi3l2d4bYTGc=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -106,49 +102,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			75m7OJiLIo6mu8p/iOWvdNZtwJgAvBYM9teJG6yEBGs=
+			Ij1BB0f8xAzFIaABY1f4P09jt48pYkxdTjKh1b/dpNA=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-e9P-fM-hzh.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZYKcmMwoC9EYaXrRVn1jfy+BaMzxv8C+XQnWGU4x+CI=
+			Z9RQ0xfgViVplzz+yKs/8q5g9YhqPdri2uV/ea/nTGE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-RY7-4G-rMb.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CzIMqyu23KziboEgxteqcpt23kaRDSh7NalpjJt0wQY=
+			zpZwrxciI+1j4fkr8KwRmfhzTs4aaRngGD4Gj/VMnV0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/hVX-Td-fPf-view-jns-tG-CKf.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LeUQ3/+0Pq2sNs+OaL2Jj1pVIayEc+LUb+/N7tpN1Ts=
+			XqBcPRHtrSpxL/l4C42tFRWl/8v23U825l7R6118CaU=
 			</data>
 		</dict>
-		<key>ChallengeAppAcademy.momd/ChallengeAppAcademy.mom</key>
+		<key>Cat1.gif</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4GeRqRVhIFz8BQDxdrxBVRMQ1oDqwMJGEUG9AjMEEKA=
+			BwG+sKf/JyKB8psAZw/+bPH84wKGeLESBqGxDp9iKzM=
 			</data>
 		</dict>
-		<key>ChallengeAppAcademy.momd/ChallengeAppAcademy.omo</key>
+		<key>Cat2.gif</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hbWOa5qP8gn7FX3z1ROhNQ/lIE2Mq8kjF93P4ZDK+4k=
-			</data>
-		</dict>
-		<key>ChallengeAppAcademy.momd/VersionInfo.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HimUWIUICojE3tgHA1F8fghCh58AFsZ3pWxASxhcqZY=
+			aQTk04u1RxmLUseilrDpt+N78ztcgCvHi3N16VCL1Gg=
 			</data>
 		</dict>
 		<key>libswiftRemoteMirror.dylib</key>

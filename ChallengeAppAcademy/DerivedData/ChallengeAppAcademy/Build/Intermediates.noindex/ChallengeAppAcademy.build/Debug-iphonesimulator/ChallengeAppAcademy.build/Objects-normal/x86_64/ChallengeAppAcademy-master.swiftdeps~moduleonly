@@ -1,7 +1,9 @@
 version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
 options: "d1401e5b97a38f91855de904a280a12f"
-build_time: [1559554681, 318436000]
+build_time: [1559559962, 283506000]
 inputs:
   "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/TableViewController.swift": [1559554641, 198464756]
-  "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/AppDelegate.swift": [1559394302, 517617345]
-  "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/DetailViewController.swift": [1559554614, 371505531]
+  "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/AppDelegate.swift": [1559559739, 377388575]
+  "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/DetailViewController.swift": [1559559574, 601798475]
+  "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/Gif.swift": [1559556111, 659701715]
+  "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/Layout.swift": [1559559414, 912735763]
