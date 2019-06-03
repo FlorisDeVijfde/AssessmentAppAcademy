@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>ACC7DC3F-8EBB-436D-A7E1-490CA384B434</key>
+		<key>98059B4C-C1E1-45D9-B798-349C9BD32DB6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>ACC7DC3F-8EBB-436D-A7E1-490CA384B434.xcactivitylog</string>
+			<string>98059B4C-C1E1-45D9-B798-349C9BD32DB6.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -24,13 +24,13 @@
 			<key>signature</key>
 			<string>ChallengeAppAcademy-avaviruznseuplbjmcekcudceihn</string>
 			<key>timeStartedRecording</key>
-			<real>581252791.49414599</real>
+			<real>581265128.92665803</real>
 			<key>timeStoppedRecording</key>
-			<real>581252792.76707399</real>
+			<real>581265131.35434306</real>
 			<key>title</key>
 			<string>Build target ChallengeAppAcademy</string>
 			<key>uniqueIdentifier</key>
-			<string>ACC7DC3F-8EBB-436D-A7E1-490CA384B434</string>
+			<string>98059B4C-C1E1-45D9-B798-349C9BD32DB6</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

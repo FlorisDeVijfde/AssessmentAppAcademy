@@ -17,6 +17,7 @@
 		70BEFE3522A5278200C6A9D4 /* Cat1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 70BEFE3422A5278200C6A9D4 /* Cat1.gif */; };
 		70BEFE3722A5278900C6A9D4 /* Cat2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 70BEFE3622A5278900C6A9D4 /* Cat2.gif */; };
 		70BEFE3922A5314D00C6A9D4 /* Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BEFE3822A5314D00C6A9D4 /* Layout.swift */; };
+		70BEFE4022A53F1B00C6A9D4 /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BEFE3F22A53F1B00C6A9D4 /* Session.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		70BEFE3422A5278200C6A9D4 /* Cat1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Cat1.gif; path = "ChallengeAppAcademy/New Group/Cat1.gif"; sourceTree = "<group>"; };
 		70BEFE3622A5278900C6A9D4 /* Cat2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Cat2.gif; path = "ChallengeAppAcademy/New Group/Cat2.gif"; sourceTree = "<group>"; };
 		70BEFE3822A5314D00C6A9D4 /* Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Layout.swift; path = ChallengeAppAcademy/Layout.swift; sourceTree = "<group>"; };
+		70BEFE3F22A53F1B00C6A9D4 /* Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,8 +50,6 @@
 		7060189422A2AF7E00F7C146 = {
 			isa = PBXGroup;
 			children = (
-				70BEFE3E22A5367800C6A9D4 /* Visual */,
-				70BEFE3D22A5364F00C6A9D4 /* ViewControllers */,
 				7060189F22A2AF7E00F7C146 /* ChallengeAppAcademy */,
 				7060189E22A2AF7E00F7C146 /* Products */,
 			);
@@ -66,21 +66,16 @@
 		7060189F22A2AF7E00F7C146 /* ChallengeAppAcademy */ = {
 			isa = PBXGroup;
 			children = (
+				70BEFE4122A5696D00C6A9D4 /* Networking */,
+				70BEFE3E22A5367800C6A9D4 /* Visual */,
+				70BEFE3D22A5364F00C6A9D4 /* ViewControllers */,
 				706018A022A2AF7E00F7C146 /* AppDelegate.swift */,
 				706018A422A2AF7E00F7C146 /* Main.storyboard */,
 				706018AA22A2AF8100F7C146 /* Assets.xcassets */,
 				706018AC22A2AF8100F7C146 /* LaunchScreen.storyboard */,
 				706018AF22A2AF8100F7C146 /* Info.plist */,
-				70BEFE3A22A5354A00C6A9D4 /* New Group */,
 			);
 			path = ChallengeAppAcademy;
-			sourceTree = "<group>";
-		};
-		70BEFE3A22A5354A00C6A9D4 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		70BEFE3C22A5360300C6A9D4 /* Images */ = {
@@ -99,6 +94,7 @@
 				70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */,
 			);
 			name = ViewControllers;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		70BEFE3E22A5367800C6A9D4 /* Visual */ = {
@@ -109,6 +105,15 @@
 				70BEFE3C22A5360300C6A9D4 /* Images */,
 			);
 			name = Visual;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		70BEFE4122A5696D00C6A9D4 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				70BEFE3F22A53F1B00C6A9D4 /* Session.swift */,
+			);
+			name = Networking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -186,6 +191,7 @@
 			files = (
 				706018A322A2AF7E00F7C146 /* TableViewController.swift in Sources */,
 				706018A122A2AF7E00F7C146 /* AppDelegate.swift in Sources */,
+				70BEFE4022A53F1B00C6A9D4 /* Session.swift in Sources */,
 				70BEFE3122A50FDB00C6A9D4 /* DetailViewController.swift in Sources */,
 				70BEFE3322A524F300C6A9D4 /* Gif.swift in Sources */,
 				70BEFE3922A5314D00C6A9D4 /* Layout.swift in Sources */,
