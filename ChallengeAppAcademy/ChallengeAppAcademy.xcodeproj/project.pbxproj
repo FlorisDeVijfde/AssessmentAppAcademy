@@ -13,6 +13,7 @@
 		706018A922A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 706018A722A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodeld */; };
 		706018AB22A2AF8100F7C146 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 706018AA22A2AF8100F7C146 /* Assets.xcassets */; };
 		706018AE22A2AF8100F7C146 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 706018AC22A2AF8100F7C146 /* LaunchScreen.storyboard */; };
+		70BEFE3122A50FDB00C6A9D4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		706018AA22A2AF8100F7C146 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		706018AD22A2AF8100F7C146 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		706018AF22A2AF8100F7C146 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				706018A022A2AF7E00F7C146 /* AppDelegate.swift */,
 				706018A222A2AF7E00F7C146 /* TableViewController.swift */,
+				70BEFE3022A50FDB00C6A9D4 /* DetailViewController.swift */,
 				706018A422A2AF7E00F7C146 /* Main.storyboard */,
 				706018AA22A2AF8100F7C146 /* Assets.xcassets */,
 				706018AC22A2AF8100F7C146 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				706018A322A2AF7E00F7C146 /* TableViewController.swift in Sources */,
 				706018A122A2AF7E00F7C146 /* AppDelegate.swift in Sources */,
 				706018A922A2AF7E00F7C146 /* ChallengeAppAcademy.xcdatamodeld in Sources */,
+				70BEFE3122A50FDB00C6A9D4 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
