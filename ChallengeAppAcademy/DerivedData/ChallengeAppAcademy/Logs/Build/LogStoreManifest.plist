@@ -5,6 +5,135 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>126B6BC5-28F5-4CF8-996D-51FB8238D81B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>126B6BC5-28F5-4CF8-996D-51FB8238D81B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581240367.69007003</real>
+			<key>timeStoppedRecording</key>
+			<real>581240374.37959194</real>
+			<key>title</key>
+			<string>Build ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>126B6BC5-28F5-4CF8-996D-51FB8238D81B</string>
+		</dict>
+		<key>7D8F785B-526F-4510-A237-BC3E48A4FF90</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D8F785B-526F-4510-A237-BC3E48A4FF90.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581241802.92319596</real>
+			<key>timeStoppedRecording</key>
+			<real>581241808.79739404</real>
+			<key>title</key>
+			<string>Build ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>7D8F785B-526F-4510-A237-BC3E48A4FF90</string>
+		</dict>
+		<key>9157C1A1-05E8-444B-8003-8C7B317DA1E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9157C1A1-05E8-444B-8003-8C7B317DA1E4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581241915.46123505</real>
+			<key>timeStoppedRecording</key>
+			<real>581241917.03477705</real>
+			<key>title</key>
+			<string>Build ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>9157C1A1-05E8-444B-8003-8C7B317DA1E4</string>
+		</dict>
+		<key>B770A971-8EBD-47F3-A51E-AB15549FD8DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B770A971-8EBD-47F3-A51E-AB15549FD8DE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChallengeAppAcademy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChallengeAppAcademy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ChallengeAppAcademy</string>
+			<key>timeStartedRecording</key>
+			<real>581241576.07979</real>
+			<key>timeStoppedRecording</key>
+			<real>581241577.27985799</real>
+			<key>title</key>
+			<string>Build ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>B770A971-8EBD-47F3-A51E-AB15549FD8DE</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

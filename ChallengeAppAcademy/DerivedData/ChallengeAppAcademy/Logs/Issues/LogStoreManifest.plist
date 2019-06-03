@@ -5,7 +5,34 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>6B61327B-C88A-416B-A082-17B2EBCEB0B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>6B61327B-C88A-416B-A082-17B2EBCEB0B6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>ChallengeAppAcademy-avaviruznseuplbjmcekcudceihn</string>
+			<key>timeStartedRecording</key>
+			<real>581241915.54626</real>
+			<key>timeStoppedRecording</key>
+			<real>581241916.95138705</real>
+			<key>title</key>
+			<string>Build target ChallengeAppAcademy</string>
+			<key>uniqueIdentifier</key>
+			<string>6B61327B-C88A-416B-A082-17B2EBCEB0B6</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

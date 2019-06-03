@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
 options: "d1401e5b97a38f91855de904a280a12f"
-build_time: [1559394310, 86558000]
+build_time: [1559549156, 1657000]
 inputs:
-  "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/ViewController.swift": [1559394302, 522911110]
+  "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/TableViewController.swift": [1559547538, 526430127]
   "/Users/FLORIS/Documents/Xcode/AssessmentAppAcademy/ChallengeAppAcademy/ChallengeAppAcademy/AppDelegate.swift": [1559394302, 517617345]

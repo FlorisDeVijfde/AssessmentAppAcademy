@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5615BBF15A36F134E7AB61416C6F60407659E081",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5615BBF15A36F134E7AB61416C6F60407659E081" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7F06FB5D-4EA6-4115-8228-80BCAE5BEE49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5615BBF15A36F134E7AB61416C6F60407659E081" : "AssessmentAppAcademy\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChallengeAppAcademy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChallengeAppAcademy\/ChallengeAppAcademy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FlorisDeVijfde\/AssessmentAppAcademy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5615BBF15A36F134E7AB61416C6F60407659E081"
+    }
+  ]
+}
